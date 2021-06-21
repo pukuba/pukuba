@@ -1,16 +1,57 @@
-### Hi there 👋
+# SeungWon Nam (남승원, pukuba, erolf0123)
 
-<!--
-**pukuba/pukuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=erolf0123)](https://www.acmicpc.net/user/erolf0123)
 
-Here are some ideas to get you started:
+## Profile
+* SeungWon Nam (남승원)
+* Software Engineer at [SW Maestro](https://swmaestro.org/sw/main/main.do)
+* HighSchool Student at [Department of Information Protection, Sunrin](http://sunrint.hs.kr/index.do)
+* Backend Developer
+* [Contact](mailto:pukuba@kakao.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stacks
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/Node.js-339933?logoColor=FFFFFF&logo=Node.js&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=TypeScript&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?logoColor=FFFFFF&logo=PHP&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logoColor=FFFFFF&logo=Python&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=FFFFFF&logo=Javascript&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logoColor=FFFFFF&logo=HTML5&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logoColor=FFFFFF&logo=CSS3&style=flat-square"> &nbsp;
+  
+  <br>
+  <img src="https://img.shields.io/badge/Express-000000?logoColor=FFFFFF&logo=express&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logoColor=FFFFFF&logo=Apollo%20GraphQL&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logoColor=FFFFFF&logo=mocha&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Jest-C21325?logoColor=FFFFFF&logo=Jest&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Jquery-0769AD?logoColor=FFFFFF&logo=jquery&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logoColor=FFFFFF&logo=Selenium&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Beautiful Soup-3776AB?logoColor=FFFFFF&logo=Python&style=flat-square"> &nbsp; 
+  <img src="https://img.shields.io/badge/Django-092E20?logoColor=FFFFFF&logo=django&style=flat-square"> &nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/GRPC-4285F4?logoColor=FFFFFF&logo=google&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&logo=GraphQL&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/NCP-03C75A?logoColor=FFFFFF&logo=naver&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logoColor=FFFFFF&logo=Amazon-AWS&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Nginx-009639?logoColor=FFFFFF&logo=Nginx&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Apache-D22128?logoColor=FFFFFF&logo=apache&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?logoColor=FFFFFF&logo=Docker&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Travis_ci-3EAAAF?logoColor=FFFFFF&logo=travis&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logoColor=FFFFFF&logo=swagger&style=flat-square"> &nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logoColor=FFFFFF&logo=MongoDB&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?logoColor=FFFFFF&logo=Redis&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?logoColor=FFFFFF&logo=SQLite&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logoColor=FFFFFF&logo=Mysql&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/MemCached-65C2CB?logoColor=Memcached&logo=&style=flat-square"> &nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?logoColor=FFFFFF&logo=Git&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Git LFS-F64935?logoColor=FFFFFF&logo=Git-Lfs&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/GitLab-FCA121?logoColor=FFFFFF&logo=Gitlab&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Github-181717?logoColor=FFFFFF&logo=Github&style=flat-square"> &nbsp;
+</div>
+
+## Cards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pukuba&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

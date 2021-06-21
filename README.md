@@ -6,7 +6,7 @@
 * SeungWon Nam (남승원)
 * Software Engineer at [SW Maestro](https://swmaestro.org/sw/main/main.do)
 * HighSchool Student at [Department of Information Protection, Sunrin](http://sunrint.hs.kr/index.do)
-* Backend Developer
+* Back-End Developer
 * [Contact](mailto:pukuba@kakao.com)
 
 ## Tech Stacks

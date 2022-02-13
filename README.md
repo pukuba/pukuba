@@ -1,7 +1,5 @@
 # SeungWon Nam (남승원, pukuba, erolf0123)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=erolf0123)](https://www.acmicpc.net/user/erolf0123)
-
 ## Profile
 * SeungWon Nam (남승원)
 * Software Engineer at [SW Maestro](https://swmaestro.org/sw/main/main.do)
@@ -44,7 +42,3 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?logoColor=FFFFFF&logo=Gitlab&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Github-181717?logoColor=FFFFFF&logo=Github&style=flat-square"> &nbsp;
 </div>
-
-## Cards
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pukuba&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

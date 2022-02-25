@@ -1,6 +1,5 @@
-# SeungWon Nam (남승원, pukuba, erolf0123)
-
-## Profile
+# SeungWon Nam (남승원, pukuba, erolf0123) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpukuba&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Profile 
 * SeungWon Nam (남승원)
 * Software Engineer at [SW Maestro](https://swmaestro.org/sw/main/main.do)
 * HighSchool Student at [Department of Information Protection, Sunrin](http://sunrint.hs.kr/index.do)
@@ -20,13 +19,17 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?logoColor=FFFFFF&logo=mocha&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/NestJS-E0234E?logoColor=FFFFFF&logo=NestJS&style=flat-square"> &nbsp;
   <br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-181717?logoColor=FFFFFF&logo=github&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logoColor=FFFFFF&logo=travis&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?logoColor=FFFFFF&logo=Codecov&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Coveralls-3F5767?logoColor=FFFFFF&logo=Coveralls&style=flat-square"> &nbsp;
+    <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?logoColor=FFFFFF&logo=Docker&style=flat-square"> &nbsp;
+  <br>
   <img src="https://img.shields.io/badge/GRPC-4285F4?logoColor=FFFFFF&logo=google&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/GraphQL-E10098?logoColor=FFFFFF&logo=GraphQL&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/NCP-03C75A?logoColor=FFFFFF&logo=naver&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logoColor=FFFFFF&logo=Amazon AWS&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Nginx-009639?logoColor=FFFFFF&logo=Nginx&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?logoColor=FFFFFF&logo=Docker&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logoColor=FFFFFF&logo=travis&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logoColor=FFFFFF&logo=swagger&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logoColor=FFFFFF&logo=Firebase&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logoColor=FFFFFF&logo=Cloudflare&style=flat-square"> &nbsp;
@@ -40,5 +43,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?logoColor=FFFFFF&logo=Git&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Git LFS-F64935?logoColor=FFFFFF&logo=Git-Lfs&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/GitLab-FCA121?logoColor=FFFFFF&logo=Gitlab&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Github-181717?logoColor=FFFFFF&logo=Github&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?logoColor=FFFFFF&logo=Github&style=flat-square"> &nbsp;
 </div>
